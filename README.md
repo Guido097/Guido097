@@ -44,19 +44,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Guido097/Guido097/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/nacholjn.cba">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nacholjn.cba&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-###
 <!--
 **Guido097/Guido097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
