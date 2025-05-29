@@ -8,25 +8,26 @@
 
 ## 🧰 Tech Stack & Tools
 
-**Languages & Libraries**  
+### Languages & Libraries
 <p>
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
+
 **Data Engineering & Cloud**  
 <p>
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&style=flat-square)  
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+<img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&style=flat-square" />  
+<img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square" />  
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square" />
 </p>
 **Dev & Workflow**  
 <p>
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
-![Pycharm](https://img.shields.io/badge/-Pycharm-000000?logo=pycharm&logoColor=white&style=flat-square)
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" /> 
+<img src="https://img.shields.io/badge/-Pycharm-000000?logo=pycharm&logoColor=white&style=flat-square" />
 </p>
 ---
 
