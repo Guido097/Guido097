@@ -16,14 +16,15 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
-**Data Engineering & Cloud**  
+### Data Engineering & Cloud
 <p>
 <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&style=flat-square" />  
 <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square" />  
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square" />
 </p>
-**Dev & Workflow**  
+
+### Dev & Workflow  
 <p>
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" /> 
