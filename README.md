@@ -39,7 +39,7 @@
 |--------|-------------|-------|
 | [🏠 Zonaprop Scraper](https://github.com/Guido097/zonaprop-scraper) | Web scraping de precios de alquiler en Córdoba y análisis de tendencias | Python, BeautifulSoup, Pandas |
 | [🔄 ETL con Airflow](https://github.com/Guido097/etl-airflow-crypto) | Pipeline que descarga datos de criptomonedas y los almacena en PostgreSQL | Python, Airflow, SQL |
-| [📊 Visualización de Accidentes](https://github.com/Guido097/accidentes-viales) | Análisis de datos abiertos de siniestros viales | Pandas, Power BI, Jupyter |
+| [📊 Visualización de Accidentes](https://github.com/Guido097/SiniestrosFatales_2016-2021) | Análisis de datos abiertos de siniestros viales | Pandas, Power BI, Jupyter |
 
 > *Más proyectos disponibles en [mi perfil](https://github.com/Guido097).*
 
