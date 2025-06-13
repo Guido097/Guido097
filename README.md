@@ -1,14 +1,16 @@
-# 👋 Hi, I'm Guido Luján
+# 👋 Hola, soy Guido Luján
 
-🎯 **Data Scientist & Data Engineer** from Córdoba, Argentina  
-💻 Passionate about turning raw data into smart decisions  
-🔍 I love automation, data pipelines, dashboards, and AI applications
+🎯 **Data Scientist & Data Engineer** desde Córdoba, Argentina  
+💡 Apasionado por convertir datos crudos en decisiones inteligentes  
+🚀 Enfocado en automatización, pipelines de datos, dashboards interactivos y aplicaciones con IA
+
+🔗 [LinkedIn](https://www.linkedin.com/in/guido-lujan/) | 📧 [Email](mailto:guidoilujan@outlook.com)
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Herramientas
 
-### Languages & Libraries
+### Lenguajes y Librerías
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
@@ -24,7 +26,7 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square" />
 </p>
 
-### Dev & Workflow
+### Desarrollo & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
@@ -33,19 +35,19 @@
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Proyectos Destacados
 
-| Project | Description | Stack |
+| Proyecto | Descripción | Stack |
 |--------|-------------|-------|
-| [🏠 Zonaprop Scraper](https://github.com/Guido097/zonaprop-scraper) | Web scraping de precios de alquiler en Córdoba y análisis de tendencias | Python, BeautifulSoup, Pandas |
-| [🔄 ETL con Airflow](https://github.com/Guido097/etl-airflow-crypto) | Pipeline que descarga datos de criptomonedas y los almacena en PostgreSQL | Python, Airflow, SQL |
-| [📊 Visualización de Accidentes](https://github.com/Guido097/SiniestrosFatales_2016-2021) | Análisis de datos abiertos de siniestros viales | Pandas, Power BI, Jupyter |
+| [🏠 Zonaprop Scraper](https://github.com/Guido097/zonaprop-scraper) | Extracción automática de datos de alquileres en Córdoba + análisis exploratorio | `Python`, `BeautifulSoup`, `Pandas` |
+| [🔄 ETL Crypto con Airflow](https://github.com/Guido097/etl-airflow-crypto) | Pipeline robusto para extraer, transformar y cargar precios de criptomonedas en PostgreSQL | `Airflow`, `Docker`, `Python`, `PostgreSQL` |
+| [🚧 Siniestros viales en Argentina](https://github.com/Guido097/SiniestrosFatales_2016-2021) | Visualización y análisis de siniestros fatales en rutas argentinas (2016-2021) | `Power BI`, `Pandas`, `Jupyter` |
 
-> *Más proyectos disponibles en [mi perfil](https://github.com/Guido097).*
+> 👉 También podés explorar [más proyectos en mi perfil](https://github.com/Guido097), incluyendo automatizaciones con n8n, scrapers institucionales y dashboards interactivos.
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
 <p>
   <a href="mailto:guidoilujan@outlook.com">
@@ -64,4 +66,4 @@
 
 ---
 
-⭐ *Always learning, building and sharing.*
+⭐ *Siempre aprendiendo, creando y compartiendo conocimiento con la comunidad.*
